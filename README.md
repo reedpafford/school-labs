@@ -1,3 +1,6 @@
 ## School-Labs
-### Examples of various work done this semester in labs
-### Employee Class and Dictionary go together
+### File Reading - working with files
+### Binary Converter - Converts numbers to binary
+### Ackermann Function - Code the Ackermann function
+### Recursive method - example of recursive method
+### Employee Dictionary/class - understading of OOPs and classes
